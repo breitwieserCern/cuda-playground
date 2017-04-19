@@ -1,6 +1,6 @@
 Install cuda 8 on Amazon AWS (ubuntu 16.04 LTS)
 
-```
+```bash
 sudo apt-get update
 sudo apt-get install -y g++ git cmake valgrind
 wget http://developer.download.nvidia.com/compute/cuda/repos/ubuntu1604/x86_64/cuda-repo-ubuntu1604_8.0.61-1_amd64.deb
